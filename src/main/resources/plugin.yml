@@ -1,0 +1,10 @@
+name: Exfly
+version: '${project.version}'
+main: exfly.exfly.Main
+api-version: 1.19
+
+commands:
+  game:
+    description: game start
+    aliases: [az]
+
